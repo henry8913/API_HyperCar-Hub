@@ -4,7 +4,7 @@
 Una API REST per gestire un database di auto di lusso. Questo progetto può essere utilizzato come base per creare la tua API personalizzata.
 
 <p align="center">
-  <img src="img/cover_b.jpg" alt="Cover" width="100%" />
+  <img src="img/cover_c.jpg" alt="Cover" width="100%" />
 </p>
 
 ## 📋 Descrizione
